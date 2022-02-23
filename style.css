@@ -1,0 +1,103 @@
+body {
+    background-color: #f3b5e4;
+font-family: Eras ITC;
+
+}
+
+h2{
+    text-align: center;
+    font-size: 25px;
+    color: #52083fd3;
+    font-family: Eras ITC;
+    text-decoration: underline; 
+    text-decoration: solid;
+    text-decoration: #f36ed2;
+}
+
+li {
+display: inline;
+margin: 50px;
+padding: 0px;
+color: #36002ad3;
+font-family: Eras ITC;
+
+}
+
+ul{text-align: center;}
+#PRO {
+    text-align: center;
+    font-size: 25px;
+    color: #078fffa6;
+    background-color: #eff5bf;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #81c3f8 #f36ed2 #bcffd3 #f5e347; 
+    /*#81c3f8 Top, #f36ed2 Right, #bcffd3 Buttom, and #f3b5e4 Left*/
+    height: 30px;
+} 
+
+#SKILLS {
+    text-align: center;
+    font-size: 25px;
+    color: #078fffa6;
+    background-color: #c5f5bf;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #81c3f8 #f36ed2 #bcffd3 #f5e347; 
+    /*#81c3f8 Top, #f36ed2 Right, #bcffd3 Buttom, and #f3b5e4 Left*/
+    height: 30px;
+} 
+
+#WOREX {
+    text-align: center;
+    font-size: 25px;
+    color: #078fffa6;
+    background-color: #bff5e9;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #81c3f8 #f36ed2 #bcffd3 #f5e347; 
+    /*#81c3f8 Top, #f36ed2 Right, #bcffd3 Buttom, and #f3b5e4 Left*/
+    height: 30px;
+} 
+
+#EDU {
+    text-align: center;
+    font-size: 25px;
+    color: #078fffa6;
+    background-color: #f5dcbf;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #81c3f8 #f36ed2 #bcffd3 #f5e347; 
+    /*#81c3f8 Top, #f36ed2 Right, #bcffd3 Buttom, and #f3b5e4 Left*/
+    height: 30px;
+} 
+#REF {
+    text-align: center;
+    font-size: 25px;
+    color: #1998ff;
+    background-color: #c09df7;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #81c3f8 #f36ed2 #70fda1 #f5e347; 
+    /*#81c3f8 Top, #f36ed2 Right, #bcffd3 Buttom, and #f3b5e4 Left*/
+    height: 30px;
+} 
+
+
+
+
+
+table {width: 80%;}
+th {
+    height: 20px;
+    color: #1f0218d3;
+}
+
+<td> {width: 80%;}
+
+#woex {
+    font-size: 22px;
+    color: #36002ad3;
+}
+
+#DAddd {color: #554a53d3;}
