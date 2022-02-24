@@ -14,6 +14,8 @@ h2{
     text-decoration: #f36ed2;
 }
 
+
+
 li {
 display: inline;
 margin: 50px;
@@ -24,6 +26,7 @@ font-family: Eras ITC;
 }
 
 ul{text-align: center;}
+
 #PRO {
     text-align: center;
     font-size: 25px;
@@ -46,7 +49,10 @@ ul{text-align: center;}
     border-color: #81c3f8 #f36ed2 #bcffd3 #f5e347; 
     /*#81c3f8 Top, #f36ed2 Right, #bcffd3 Buttom, and #f3b5e4 Left*/
     height: 30px;
-} 
+}
+#skill 
+
+/*WORK EXPERIENCE */
 
 #WOREX {
     text-align: center;
@@ -59,6 +65,32 @@ ul{text-align: center;}
     /*#81c3f8 Top, #f36ed2 Right, #bcffd3 Buttom, and #f3b5e4 Left*/
     height: 30px;
 } 
+/*BOTH SKILL AND WORK*/
+
+table {width: 80%;}
+
+th {
+    height: 20px;
+    color: #1f0218d3;
+}
+
+#td {width: 80%;}
+
+#HA {text-align: left;}
+
+#P1 {color: #1f0218d3;}
+
+#P2 {color: #1f0218d3;}
+
+#P3 {color: #1f0218d3;}
+
+#P4 {color: #1f0218d3;}
+
+#woex {
+    font-size: 22px;
+    color: #36002ad3;
+}
+/* END OF WORK EXPERIENCE */
 
 #EDU {
     text-align: center;
@@ -74,6 +106,18 @@ ul{text-align: center;}
 #REF {
     text-align: center;
     font-size: 25px;
+    color: #078fffa6;
+    background-color: #f697ff;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #81c3f8 #f36ed2 #70fda1 #f5e347; 
+    /*#81c3f8 Top, #f36ed2 Right, #bcffd3 Buttom, and #f3b5e4 Left*/
+    height: 30px;
+} 
+
+#VOL {
+    text-align: center;
+    font-size: 25px;
     color: #1998ff;
     background-color: #c09df7;
     border-style: solid;
@@ -87,17 +131,5 @@ ul{text-align: center;}
 
 
 
-table {width: 80%;}
-th {
-    height: 20px;
-    color: #1f0218d3;
-}
-
-<td> {width: 80%;}
-
-#woex {
-    font-size: 22px;
-    color: #36002ad3;
-}
-
 #DAddd {color: #554a53d3;}
+
