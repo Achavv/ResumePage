@@ -56,7 +56,10 @@ font-size: 16px;
     height: 30px;
 } 
 #skill { font-size: 16px;
-    color: #36002ad3;
+    color: #36002ad3; 
+     
+
+    margin-left: 200px;
 }
 
 /*WORK EXPERIENCE   */
@@ -124,6 +127,9 @@ font-size: 16px;}
     color: #36002ad3;
     text-align: center;
 }
+
+#DAddd {color: #554a53d3;}
+
 #REF {
     text-align: center;
     font-size: 25px;
@@ -138,7 +144,9 @@ font-size: 16px;}
 
 #who {display: inline;}
 
-#ref{ list-style-type:none;}
+#ref{ list-style-type:none;
+font-size: 16px;
+color: #36002ad3;}
 
 #VOL {
     text-align: center;
@@ -152,9 +160,31 @@ font-size: 16px;}
     height: 30px;
 } 
 
+#ewwpoorpeople {font-size: 16px; 
+color: #36002ad3;}
+
+#joke {font-size: 16px;
+color: #36002ad3;}
 
 
 
-
-#DAddd {color: #554a53d3;}
-
+/* links*/
+/* unvisited link */ 
+a:link {
+    color: #36002ad3;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(132, 55, 163);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #f575d9;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
